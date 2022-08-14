@@ -29,7 +29,7 @@ h5py
 protobuf
 pyspark
 pyspark-stubs
-word_clouds
+wordcloud
 pillow
 xlrd
 requests
